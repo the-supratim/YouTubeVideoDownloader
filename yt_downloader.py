@@ -12,4 +12,4 @@ yd = yt.streams.get_highest_resolution()
 
 yd.download("D:\YouTube Downloader")
 
-print("Thank you for using this software.")
+print("Thank you for using this software.\n© Supratim Bhattacharjee")
