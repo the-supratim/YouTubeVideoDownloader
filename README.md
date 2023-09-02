@@ -1,12 +1,12 @@
 # YouTubeVideoDownloader
 If you don't have YouTube Premium subscription (like I don't) but still want to download YouTube videos to watch when you're offline, then this software is a very effective way of downloading YouTube videos at the highest resolution available directly to your system for FREE.
 
-STEPS TO DOWNLOAD YOUTUBE VIDEO:
+# Steps to download YouTube Video:
 
 1. Copy the code to your system's code editor (eg. Visual Studio Code) and save it on your system.
-2. Change the path in the 13th line of the code to your liking. (This location is where the video will be saved.)
+2. Change the path in the 13th line of the code to your liking. (This is where the video will be saved.)
 3. Open YouTube and search for the video you want to download, and copy it's link address.
-4. In your code editor, in the terminal section, compile and run the program with the link of the YouTube video passed as an argument within double-inverted quotes.
+4. In your code editor, run the code, and paste the link of the video in the terminal as specified.
 5. Wait for a while for the video to be downloaded on to your system.
 6. After the download is complete, a message will be displayed onto your screen.
 
