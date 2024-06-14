@@ -1,6 +1,8 @@
 # YouTubeVideoDownloader
 If you don't have YouTube Premium subscription (like I don't) but still want to download YouTube videos to watch when you're offline, then this software is a very effective way of downloading YouTube videos at the highest resolution available directly to your system for FREE.
 
+**Tools and technologies used**: Python, PyTube
+
 # Steps to download YouTube Video:
 
 1. Copy the code to your system's code editor (eg. Visual Studio Code) and save it on your system.
@@ -11,7 +13,3 @@ If you don't have YouTube Premium subscription (like I don't) but still want to 
 6. After the download is complete, a message will be displayed onto your screen.
 
 A demo video of the above steps is attached for more convenience.
-
-Thank you for trying my software. Hope you liked it.
-
-© Supratim Bhattacharjee
